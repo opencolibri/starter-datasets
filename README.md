@@ -39,6 +39,10 @@ castor sylius:import:shop:create cellar
 
 Read the [documentation](https://github.com/opencolibri/colibri-starter/blob/main/docs/import/datasets.md) for usage.
 
+Each dataset has a 240x320 thumbnail, the image of its first product, in `previews/<dataset>.webp`
+(`OpenColibri\Starter\Datasets\DatasetPreview::path()`), for dataset lists. After adding a dataset or changing its
+first product, refresh them from the monorepo root with `castor datasets:thumbnails`.
+
 ## Contributing
 
 This repository is a **read-only split** of the
