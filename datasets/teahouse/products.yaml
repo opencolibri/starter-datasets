@@ -1,6 +1,5 @@
 # Teahouse dataset: sixteen teas and pieces of teaware from a fictional tea merchant (see dataset.yaml).
 # Each image is a path relative to the dataset directory, so the import copies it instead of downloading it.
-mode: ai
 name: Teahouse
 products:
     -   title: 'Shizuoka Sencha — Spring Harvest, 100 g'

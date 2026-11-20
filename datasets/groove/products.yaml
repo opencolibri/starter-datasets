@@ -1,6 +1,5 @@
 # Groove dataset: sixteen fictional records (see dataset.yaml).
 # Each image is a path relative to the dataset directory, so the import copies it instead of downloading it.
-mode: ai
 name: Groove Records
 products:
     -   title: 'The Marlowe Quartet — Blue Hours'

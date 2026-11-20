@@ -1,7 +1,6 @@
 # Automotive dataset: eighteen car parts, tyres, accessories, tools and workshop equipment from a fictional parts house (see dataset.yaml).
 # The part reference ends each title, after a dash: the Torque theme prints it under the name on the product cards.
 # Each image is a path relative to the dataset directory, so the import copies it instead of downloading it.
-mode: ai
 name: Automotive
 products:
     -   title: 'Vented Brake Discs Ø 288 mm, Front Pair — TQ-BD288V'

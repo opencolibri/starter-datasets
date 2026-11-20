@@ -1,7 +1,6 @@
 # Depot dataset: eighteen trade supplies from a fictional business supplier (see dataset.yaml).
 # Prices are per pack, excluding VAT; each description gives the pack size, a reference and the quantity price breaks.
 # Each image is a path relative to the dataset directory, so the import copies it instead of downloading it.
-mode: ai
 name: Depot
 products:
     -   title: 'Recycled Copy Paper A4 80 g, box of 5 reams'

@@ -1,6 +1,5 @@
 # Tech dataset: sixteen devices from fictional brands (see dataset.yaml).
 # Each image is a path relative to the dataset directory, so the import copies it instead of downloading it.
-mode: ai
 name: Tech
 products:
     -   title: 'Kestrel Air 14 — Ultralight Laptop'
