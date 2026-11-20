@@ -33,11 +33,11 @@ castor composer require opencolibri/starter-datasets
 Or install every Colibri Starter package at once with `opencolibri/starter`.
 
 ```bash
-castor sylius:import:dataset:list
-castor sylius:import:shop:create cellar
+castor sylius:dataset:list
+castor sylius:dataset:load cellar
 ```
 
-Read the [documentation](https://github.com/opencolibri/colibri-starter/blob/main/docs/import/datasets.md) for usage.
+Read the [documentation](https://github.com/opencolibri/colibri-starter/blob/main/docs/datasets/index.md) for usage.
 
 Each dataset has a 240x320 thumbnail, the image of its first product, in `previews/<dataset>.webp`
 (`OpenColibri\Starter\Datasets\DatasetPreview::path()`), for dataset lists. After adding a dataset or changing its
