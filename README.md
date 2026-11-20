@@ -1,6 +1,6 @@
 # opencolibri/starter-datasets
 
-Ready-made demo datasets for the Colibri Starter import package: each one is a catalog (`products.yaml`,
+Ready-made demo datasets for the Colibri Starter: each one is a catalog (`products.yaml`,
 `collections.yaml`) shipped with its images (`media/`) and a `dataset.yaml` (name, description, suggested theme), so a
 demo shop is created from it without any AI call or download.
 
